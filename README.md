@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laceylgreene
-- 👀 I’m interested in Block-Chain and Black Tech
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Black Tech
+- 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on Full-Stack Web Development Project
 - 📫 How to reach me on my Website! KalahatiCodes.com
 
