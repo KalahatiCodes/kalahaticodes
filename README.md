@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Lacey Tyquiengco-Greene</h1>
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=footer&text=Kalahati%20Codes&fontSize=90)
+
+<h1 align="center">Hey, I'm Lacey Tyquiengco-Greene 👋</h1>
 <h3 align="center">A Passionate Full-Stack Software Engineer</h3>
 
 - 🔭 I’m currently working on **Collabor8**
