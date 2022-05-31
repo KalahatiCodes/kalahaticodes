@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Collabor8** and looking to collaborate on **Black Tech Projects**
 
-- 🌱 I’m currently learning **Node & React**
+- 🌱 I’m currently learning new skills daily **Code Wars**
 
 - ⚡ Check out my portfolio at [laceytyquiengco-greene.netlify.app](laceytyquiengco-greene.netlify.app)
 
