@@ -3,9 +3,9 @@
 <h1 align="center">Hey, I'm Lacey Tyquiengco-Greene 👋</h1>
 <h3 align="center">A Passionate Full-Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on **Collabor8** and looking to collaborate on **Black Tech Projects**
+- 🔭 I’m currently working on **Collabor8** and looking to collaborate on **Eco-Tech and Sustainability Projects**
 
-- 🌱 I’m currently learning new skills daily **Code Wars**
+- 🌱 I’m currently learning new skills daily on **Code Wars**
 
 - ⚡ Check out my portfolio at [laceytyquiengco-greene.netlify.app](laceytyquiengco-greene.netlify.app)
 
