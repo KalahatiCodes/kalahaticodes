@@ -9,7 +9,7 @@
 
 - ⚡ Check out my portfolio at [laceytyquiengco-greene.netlify.app](laceytyquiengco-greene.netlify.app)
 
-- Fun fact **I love to gold casting**
+- Fun fact **I love gold casting**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
