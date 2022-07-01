@@ -1,15 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=footer&text=Kalahati%20Codes&fontSize=90)
 
-<h1 align="center">Hey, I'm Lacey Tyquiengco-Greene 👋</h1>
-<h3 align="center">A Passionate Full-Stack Software Engineer</h3>
+<h1 align="center">Hey, I'm Lace!</h1>
+<h3 align="center">A Creative Full-Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on **Collabor8** and looking to collaborate on **Eco-Tech and Sustainability Projects**
-
-- 🌱 I’m currently learning new skills daily on **Code Wars**
-
-- ⚡ Check out my portfolio at [laceytyquiengco-greene.netlify.app](laceytyquiengco-greene.netlify.app)
-
-- Fun fact **I love gold casting**
+- I'm open to collaborating on **Community-Oriented, Eco-Tech & Sustainability Projects**
+- I’m currently working on my app **Collabor8** and learning **D3.js**
+- <a href="laceytyquiengco-greene.netlify.app">Check out my portfolio</a> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
