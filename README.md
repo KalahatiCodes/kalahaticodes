@@ -1,11 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=300&section=footer&text=Kalahati%20Codes&fontSize=90)
 
+
 <h1 align="center">Hey, I'm Lace!</h1>
 <h3 align="center">A Creative Full-Stack Software Engineer</h3>
 
-- I'm open to collaborating on **Community-Oriented, Eco-Tech & Sustainability Projects**
-- I’m currently working on my app **Collabor8** and learning **D3.js**
-- <a href="laceytyquiengco-greene.netlify.app">Check out my portfolio</a> 
+<p align="center">
+- I'm open to collaborating on <strong>Community-Oriented, Eco-Tech & Sustainability Projects</strong><br>
+- I’m currently working on my app <strong>Collabor8</strong> and learning <strong>D3.js</strong><br>
+- <strong><a href="laceytyquiengco-greene.netlify.app" style="color: black">Check out my portfolio</a></strong> 
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
