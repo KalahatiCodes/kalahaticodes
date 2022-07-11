@@ -12,7 +12,7 @@ Hey, I'm Lace! I am a New Orleans / PGH based software engineer at Resilient Cod
 
 <br>
 
-See <a href = "https://laceytyquiengco-greene.netlify.app/">my website</a> for more information.
+See <a href = "https://laceytyquiengco-greene.netlify.app/">my portfolio</a> for more.
 
 <!--
 <h3 align="center">Connect with me:</h3>
