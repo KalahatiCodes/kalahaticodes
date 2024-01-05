@@ -8,7 +8,7 @@
 
 <br>
 
-Hey, I'm Lace! I am a New Orleans / PGH based software engineer at Resilient Coders; I'm carrying on a legacy of a three generations committed to creativity, innovation and diversity in STEM.
+Hey, I'm Lace! I am a New Orleans based Software Engineer and a ScrumAlliance Certified Scrum Product Owner ; I'm carrying on a legacy of a three generations committed to creativity, innovation and diversity in STEM.
 
 <br>
 
